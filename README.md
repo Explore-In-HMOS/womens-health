@@ -2,7 +2,7 @@
 
 # Women's Health
 
-**Women's Health** is a personal health assistant for HarmonyOS Next wearable devices that features cycle tracking,
+**Women's Health** is a personal health assistant for HarmonyOS wearable devices that features cycle tracking,
 intelligent calendar synchronization, and proactive background reminders using ArkTS.
 
 # Preview
